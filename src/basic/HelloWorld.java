@@ -1,4 +1,4 @@
-package basic;
+// package basic;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
@@ -15,7 +15,7 @@ public class HelloWorld extends Application {
     
     @Override
     public void start(Stage primaryStage) {
-        primaryStage.setTitle("Hello World!");
+        primaryStage.setTitle("Hayden is better than you");
         Button btn = new Button();
         btn.setText("Say 'Hello World'");
         btn.setOnAction(new EventHandler<ActionEvent>() {

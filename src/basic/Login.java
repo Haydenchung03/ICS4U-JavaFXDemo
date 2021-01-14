@@ -30,7 +30,7 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-package basic;
+// package basic;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
